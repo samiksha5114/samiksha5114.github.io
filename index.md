@@ -13,7 +13,7 @@
     </ul>
   <div id="introduction">
     <h2>Electrical Restrictions</h2>
-    <img src="images/Picture1.jpg" style="width:500px;">
+    <img src="images/Picture1.jpg" style="width:500px;width:200px">
   </div>
   <div id="habitat">
     <h2>Habitat</h2>
