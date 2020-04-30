@@ -2,14 +2,14 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head>
-  <title>Purifier Instructions</title>
+  <title>Purifier Placement</title>
 </head>
 <body>
   <h1>Instructions to placing the Purifier</h1>
   <ul>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#habitat">Habitat</a></li>
-    <li><a href="#media">Media</a></li>
+    <li><a href="#introduction">Electrical Restrictions</a></li>
+    <li><a href="#habitat">Flooring Restrictions</a></li>
+    <li><a href="#media">Surroundings Restriction</a></li>
     </ul>
   <div id="introduction">
     <h2>About Brown Bears</h2>
