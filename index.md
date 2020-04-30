@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<head>
-  <title>Purifier Placement</title>
-</head>
+ 
 <body>
   <h1>Instructions to placing the Purifier</h1>
   <ul>
@@ -13,7 +11,7 @@
     </ul>
   <div id="introduction">
     <h2>Electrical Restrictions</h2>
-    <img src="images/Picture1.jpg" style="width:500px;width:200px"/>
+    <img src="images/Picture1.jpg" style="width:500px;width:200px"/><img src="/images/Picture2.jpg"/>
   </div>
   <div id="habitat">
     <h2>Habitat</h2>
