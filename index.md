@@ -11,7 +11,7 @@
     </ul>
   <div id="introduction">
     <h2>Electrical Restrictions</h2>
-    <img src="images/Picture1.jpg" style="width:500px;height:200px"/><img src="/images/Picture2.jpg" style="width:500px;height: 500px"/>
+    <img src="images/Picture1.jpg" style="width:300px;height:500px"/><img src="/images/Picture2.jpg" style="width:400px;height: 400px"/>
 
   </div>
   <div id="habitat">
